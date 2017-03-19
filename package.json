@@ -1,0 +1,24 @@
+{
+  "name": "url-param-object",
+  "version": "1.0.0",
+  "description": "获取浏览器地址栏参数",
+  "main": "url-param-object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/product188/url-param-object.git"
+  },
+  "keywords": [
+    "url",
+    "param",
+    "get"
+  ],
+  "author": "kenley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/product188/url-param-object/issues"
+  },
+  "homepage": "https://github.com/product188/url-param-object#readme"
+}
