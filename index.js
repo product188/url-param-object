@@ -7,4 +7,4 @@ domparam.innerHTML=JSON.stringify(urlParamsResult);
 
 var paramSingle=document.getElementById("paramSingle");
 var name=urlParamObject.getParamValue("spm");//测试 name参数
-paramSingle.innerHTML=name||"没有找到";
+paramSingle.innerHTML=name|np|"没有找到";
